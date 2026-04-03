@@ -1,0 +1,4 @@
+# Sample config
+port=8080
+host=localhost
+threads=4
